@@ -13,7 +13,7 @@
 	<AboutMe/>
 	<WorkExperience/>
 	<div>
-	 <Project title="naruto" imageUrl="/naruto.jpg"/>
+	 <Project title="placeholder" imageUrl="/placeholder.jpeg"/>
 	</div>
 </div>
 
